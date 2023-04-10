@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "581849232596",
+    "project_id": "airplane-4ec05",
+    "storage_bucket": "airplane-4ec05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581849232596:android:43db82f52aa47d360ab741",
+        "android_client_info": {
+          "package_name": "com.fitrayana.airplane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581849232596-h3al42t1pvp8mdks6jthboo3hvluo6eu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvY8Wz0GaZuL01YQqzO2M_b1fu5YnzFIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581849232596-h3al42t1pvp8mdks6jthboo3hvluo6eu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
