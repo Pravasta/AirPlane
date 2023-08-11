@@ -11,7 +11,7 @@ dari keseluruhan fungsi, project ini 70% merupakan slicing UI/UX dan 30% logic
 
 berikut beberapa tampilan UI nyaa :
 
-<img src="https://i.ibb.co/wJG1c6k/Client-Meeting-Planning-Whiteboard-in-Green-Grey-Modern-Professional-Style.png" />
+<a href="https://ibb.co/xm9QF5k"><img src="https://i.ibb.co/xm9QF5k/Client-Meeting-Planning-Whiteboard-in-Green-Grey-Modern-Professional-Style.png" alt="Client-Meeting-Planning-Whiteboard-in-Green-Grey-Modern-Professional-Style" border="0" /></a>
 
 
 
