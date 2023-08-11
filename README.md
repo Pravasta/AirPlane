@@ -5,17 +5,14 @@ A new Flutter project.
 ## Getting Started
 
 Ini merupakan project AirPlane Apps 
+dibuat menggunakan SDK Flutter,
 menggunakan Firebase sebagai database server dan menggunakan state management Cubit
 
 dari keseluruhan fungsi, project ini 70% merupakan slicing UI/UX dan 30% logic
 
 berikut beberapa tampilan UI nyaa :
 
-<div class="image-container" style = {
-  height: 500px;
-}>
-  <img src="https://i.ibb.co/wJG1c6k/Client-Meeting-Planning-Whiteboard-in-Green-Grey-Modern-Professional-Style.png" >
-</div>
+<img src="https://i.ibb.co/qFXzpwh/Capture.png">
 
 
 
