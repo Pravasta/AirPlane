@@ -11,19 +11,13 @@ dari keseluruhan fungsi, project ini 70% merupakan slicing UI/UX dan 30% logic
 
 berikut beberapa tampilan UI nyaa :
 
-<div class="image-container">
+<div class="image-container" style = {
+  height: 500px;
+}>
   <img src="https://i.ibb.co/wJG1c6k/Client-Meeting-Planning-Whiteboard-in-Green-Grey-Modern-Professional-Style.png" >
 </div>
 
-<style>
-  .image-container {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
-    height: 500px; /* Atur sesuai kebutuhan */
-  }
-</style>
+
 
 
 
