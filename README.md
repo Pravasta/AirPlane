@@ -11,7 +11,6 @@ dari keseluruhan fungsi, project ini 70% merupakan slicing UI/UX dan 30% logic
 
 berikut beberapa tampilan UI nyaa :
 
-<img src="https://ibb.co/8s20cvS" >
-
+<img src="https://i.ibb.co/XkBKJ5C/Sea-Talk-IMG-1691741005-1.jpg" />
 
 
