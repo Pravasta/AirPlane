@@ -4,13 +4,13 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Ini merupakan project AirPlane Apps 
+menggunakan Firebase sebagai database server dan menggunakan state management Cubit
 
-A few resources to get you started if this is your first Flutter project:
+dari keseluruhan fungsi, project ini 70% merupakan slicing UI/UX dan 30% logic
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+berikut beberapa tampilan UI nyaa :
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src='https://drive.google.com/file/d/1rcdsObmXBqPFgkktPJSiPU4tBb5ck-RC/view?usp=drive_link' img>
+<img src='https://drive.google.com/file/d/1GQ-Q3PMQTqjdiuG5hPPO7v9XswG9qS03/view?usp=drive_link' img>
+<img src='https://drive.google.com/file/d/1isEgFNQELXpjrZcChQyKdTkUDcKRWV2B/view?usp=drive_link' img>
