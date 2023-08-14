@@ -1,6 +1,6 @@
-# airplane
+# AirPlane App
 
-A new Flutter project.
+Dibuat berdasarkan tutorial oleh kelas BWA
 
 ## Getting Started
 
