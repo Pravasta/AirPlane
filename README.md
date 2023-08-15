@@ -12,7 +12,7 @@ dari keseluruhan fungsi, project ini 70% merupakan slicing UI/UX dan 30% logic
 
 berikut beberapa tampilan UI nyaa :
 
-<img src="https://i.ibb.co/qFXzpwh/Capture.png">
+(https://i.ibb.co/qFXzpwh/Capture.png)
 
 
 Untuk Detail nya dapatd dilihat di 
