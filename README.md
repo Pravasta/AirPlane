@@ -15,8 +15,7 @@ berikut beberapa tampilan UI nyaa :
 <img src = 'https://i.ibb.co/qFXzpwh/Capture.png'>
 
 
-Untuk Detail nya dapatd dilihat di 
-https://www.canva.com/design/DAFrOMlPpRE/ObPYl3huk1LAegI_TUVUSQ/view?utm_content=DAFrOMlPpRE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
 
 
 
