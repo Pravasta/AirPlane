@@ -12,7 +12,7 @@ dari keseluruhan fungsi, project ini 70% merupakan slicing UI/UX dan 30% logic
 
 berikut beberapa tampilan UI nyaa :
 
-<img src = 'https://i.ibb.co/qFXzpwh/Capture.png'>
+https://www.canva.com/design/DAFyA3WrXOM/HE9jGYlBRBYLKlnt7ELO0w/view?utm_content=DAFyA3WrXOM&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 
 
